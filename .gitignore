@@ -1,0 +1,12 @@
+# ignore everything in the directory by default
+/*
+
+!.gitignore
+
+!source
+
+!cmake_setup.ps1
+!cmakelists.txt
+
+!README.md
+!LICENSE.md
